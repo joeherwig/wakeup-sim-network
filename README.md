@@ -17,7 +17,7 @@ Just add to your exe.xml the following snippet:
 		<Name>Startup networked computers via WakeOnLan</Name>
 		<Disabled>false</Disabled>
 		<Path>C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe</Path>
-        <CommandLine>C:\wakeup-sim-network-master\wakeup-machines.ps1 C:\wakeup-sim-network-master\machines.csv</CommandLine>
+                <CommandLine>C:\wakeup-sim-network-master\wakeup-machines.ps1 C:\wakeup-sim-network-master\machines.csv</CommandLine>
 	</Launch.Addon>
 ```
 if you unziped the zip-file to `C:\`. Don't forget to change the path within the `<CommandLine>` tag if you unzipped the files to an other directory.
