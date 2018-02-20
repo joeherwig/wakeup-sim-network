@@ -1,4 +1,4 @@
-﻿param([string]$InstallPath="c:\Program Files (x86)\JOE Simtech\wakeup-sim-network")
+﻿param([string]$InstallPath=$PSScriptRoot)
 clear
 
 $lang = get-culture
