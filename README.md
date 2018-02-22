@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/wiki/joeherwig/wakeup-sim-network/img/wakeup-sim-network-logo.svg?sanitize=true" height="300px"/>
+
 Tired of manually starting up your networked Flighsim computers?
 This small repo is intended to give you a small advice, how to get all networked computers up and running automatically whenever you startup your FSX or Prepar3D Flight simulator.
 
